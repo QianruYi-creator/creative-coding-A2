@@ -1,5 +1,3 @@
-# creative-coding-A2
-Stardew Valley Spring melody in TunePad
 # Stardew Valley - Spring (Main Melody) in TunePad
 
 ## Project Overview
@@ -13,12 +11,16 @@ Musical Composition - cover
 ## Coding Environment
 TunePad (https://tunepad.org) - a browser-based Python music programming environment.
 
+## Project Files
+- `spring.py` — Main TunePad code
+- `stardew_spring_tunepad.json` — TunePad project export file
+
 ## How to Run
 1. Go to https://tunepad.org
 2. Create a new project
 3. Copy the code from `spring.py` into a code cell
-4. Set the tempo to 114 bpm in the TunePad interface
-5. Set the time signature to 3/4
+4. Set the tempo to **114 bpm** in the TunePad interface
+5. Set the time signature to **3/4**
 6. Press the play button
 
 ## Technical Details
