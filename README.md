@@ -21,7 +21,7 @@ TunePad (https://tunepad.org) - a browser-based Python music programming environ
 ## Media Assets
 - `assets/spring_melody.mp3` — Exported audio of the final prototype
 - `assets/sheet_music.png` — Reference sheet music
-- `assets/tunepad_screenshot.png`
+- `assets/tunepad_screenshot.png`— Screenshot of the TunePad coding environment
 
 ## How to Run
 1.    Go to https://tunepad.org
