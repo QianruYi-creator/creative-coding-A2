@@ -13,7 +13,7 @@ TunePad (https://tunepad.org) - a browser-based Python music programming environ
 
 ## Project Files
 - `spring.py` — Main TunePad code (Bars 1-124, final version)
-- `stardew_spring_tunepad.   json` — TunePad project export file
+- `stardew_spring_tunepad.json` — TunePad project export file
 
 ## Previous Versions
 - `spring_vertion1.py` — Earlier version of the prototype
